@@ -1,6 +1,8 @@
 source "https://rubygems.org"
 
 gem "nokogiri"
+gem "unirest"
+gem "launchy"
 
 group "development" do
   gem "pry"
